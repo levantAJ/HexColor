@@ -19,7 +19,7 @@ There is a way to use AnyCodable in your project:
 ### Installation with CocoaPods
 
 ```
-pod 'HexColor', '1.0'
+pod 'HexColoring', '1.0'
 ```
 ### Build Project
 
@@ -29,7 +29,7 @@ community can help you solve it.
 ## How To Use
 
 ```swift
-import HexColor
+import HexColoring
 
 let color = UIColor(hexString: "#1a2b3c")
 let color = UIColor(hexString: "1a2b3c")
