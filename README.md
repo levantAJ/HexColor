@@ -1,9 +1,9 @@
-[![CocoaPods](https://img.shields.io/cocoapods/p/HexColor.svg)](https://cocoapods.org/pods/HexColor)
-[![CocoaPods](https://img.shields.io/cocoapods/v/HexColor.svg)](http://cocoapods.org/pods/HexColor)
-[![Pod License](https://cocoapod-badges.herokuapp.com/l/HexColor/badge.png)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![CocoaPods](https://img.shields.io/cocoapods/p/HexColoring.svg)](https://cocoapods.org/pods/HexColoring)
+[![CocoaPods](https://img.shields.io/cocoapods/v/HexColoring.svg)](http://cocoapods.org/pods/HexColoring)
+[![Pod License](https://cocoapod-badges.herokuapp.com/l/HexColoring/badge.png)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Build Status](https://travis-ci.org/levantAJ/HexColor.svg?branch=master)](https://travis-ci.org/levantAJ/HexColor)
 
-# HexColor
+# HexColoring
 This library to facilitate create an UIColor by hex string
 
 ## Requirements
