@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'HexColor'
+  s.name = 'HexColoring'
   s.version = '1.0'
   s.summary = 'HexColor'
   s.description = <<-DESC
